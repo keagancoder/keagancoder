@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keagancoder
 - 👨‍💻👨‍💻👨‍💻 推荐算法工程师一枚,热衷分享技术、干货
-- 🙏🙏🙏 感兴趣的话可以关注公众号 [Coder写code] 
+- 🙏🙏🙏 感兴趣的话可以关注公众号 [图灵不灵] 
 
 <!---
 keagancoder/keagancoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
