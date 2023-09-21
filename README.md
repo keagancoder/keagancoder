@@ -2,14 +2,6 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-👨‍💻👨‍💻👨‍💻 曾担任推荐算法工程师
-
-👨‍💻👨‍💻👨‍💻 目前大数据开发及后端开发
-
-:seedling::seedling::seedling:  **分享技术干货、学习资源、也谈谈代码人生** 
-
-:point_right: :point_right: 公众号: **编程大K**
-
 
 
 #### 📫如何联系我
